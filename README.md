@@ -49,24 +49,20 @@
   <code>🔴 🟡 🟢 &nbsp; vec1or@ops:~/arsenal$ ls modules/</code>
 </p>
 
-### `LANGUAGES`
+### LANGUAGES
 ![Python](https://img.shields.io/badge/Python-050505?style=flat-square&logo=python&logoColor=00ff66) ![C++](https://img.shields.io/badge/C%2B%2B-050505?style=flat-square&logo=cplusplus&logoColor=00ff66) ![Go](https://img.shields.io/badge/Go-050505?style=flat-square&logo=go&logoColor=00ff66) ![Bash](https://img.shields.io/badge/Bash-050505?style=flat-square&logo=gnubash&logoColor=00ff66)
-
 <br>
 
-### `DEVOPS & INFRASTRUCTURE`
+### DEVOPS & INFRASTRUCTURE
 ![Linux](https://img.shields.io/badge/Linux-050505?style=flat-square&logo=linux&logoColor=00ff66) ![Ubuntu](https://img.shields.io/badge/Ubuntu-050505?style=flat-square&logo=ubuntu&logoColor=00ff66) ![Git](https://img.shields.io/badge/Git-050505?style=flat-square&logo=git&logoColor=00ff66) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-050505?style=flat-square&logo=githubactions&logoColor=00ff66) ![Nginx](https://img.shields.io/badge/Nginx-050505?style=flat-square&logo=nginx&logoColor=00ff66) ![Docker](https://img.shields.io/badge/Docker-050505?style=flat-square&logo=docker&logoColor=00ff66)
-
 <br>
 
-### `CTF TOOLKIT`
+### CTF TOOLKIT
 ![Nmap](https://img.shields.io/badge/Nmap-050505?style=flat-square&logoColor=00ff66) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-050505?style=flat-square&logo=burpsuite&logoColor=00ff66) ![Wireshark](https://img.shields.io/badge/Wireshark-050505?style=flat-square&logo=wireshark&logoColor=00ff66) ![Ghidra](https://img.shields.io/badge/Ghidra-050505?style=flat-square&logoColor=00ff66) ![CyberChef](https://img.shields.io/badge/CyberChef-050505?style=flat-square&logoColor=00ff66) ![pwntools](https://img.shields.io/badge/pwntools-050505?style=flat-square&logo=python&logoColor=00ff66) ![Hashcat](https://img.shields.io/badge/Hashcat-050505?style=flat-square&logoColor=00ff66) ![Volatility](https://img.shields.io/badge/Volatility-050505?style=flat-square&logoColor=00ff66)
 
 </div>
 
 ---
-
-> **`SYSTEM // TERMINAL ACCESS`**
 
 ```yaml
 vec1or@ops:~$ systemctl status operator.service
