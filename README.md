@@ -28,12 +28,14 @@
   <code>🔴 🟡 🟢 &nbsp; vec1or@ops:~/lab$ ls -la</code>
 </p>
 
+<div align="center">
 | `SYSTEM OPERATIONS` | `SECURITY LAB` |
 |---|---|
 | `01` Building and hardening Linux infrastructure | `01` Solving Capture The Flag challenges |
 | `02` Automating routine operations | `02` Exploring cybersecurity concepts |
 | `03` Deploying and configuring services | `03` Developing analytical thinking |
 | `04` Creating practical software and scripts | `04` Experimenting in controlled environments |
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/DIRECTIVE-AUTOMATE_%E2%86%92_HARDEN_%E2%86%92_EXPLORE-00ff66?style=for-the-badge&labelColor=050505">
@@ -49,6 +51,7 @@
   <code>🔴 🟡 🟢 &nbsp; vec1or@ops:~/arsenal$ ls modules/</code>
 </p>
 
+<div align="center">
 | `LANGUAGES` | `DEVOPS & INFRASTRUCTURE` | `CTF TOOLKIT` |
 |:---:|:---:|:---:|
 | ![Python](https://img.shields.io/badge/Python-050505?style=flat-square&logo=python&logoColor=00ff66) | ![Linux](https://img.shields.io/badge/Linux-050505?style=flat-square&logo=linux&logoColor=00ff66) | ![Nmap](https://img.shields.io/badge/Nmap-050505?style=flat-square&logoColor=00ff66) |
@@ -59,6 +62,7 @@
 |  | ![Docker](https://img.shields.io/badge/Docker-050505?style=flat-square&logo=docker&logoColor=00ff66) | ![pwntools](https://img.shields.io/badge/pwntools-050505?style=flat-square&logo=python&logoColor=00ff66) |
 |  |  | ![Hashcat](https://img.shields.io/badge/Hashcat-050505?style=flat-square&logoColor=00ff66) |
 |  |  | ![Volatility](https://img.shields.io/badge/Volatility-050505?style=flat-square&logoColor=00ff66) |
+</div>
 
 ---
 
