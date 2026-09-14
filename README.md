@@ -71,6 +71,7 @@
 ---
 
 ```diff
+
 vec1or@ops:~$ systemctl status operator.service
 
 ● operator.service - VEC1OR Operations Environment
@@ -78,6 +79,7 @@ vec1or@ops:~$ systemctl status operator.service
      Active: active (running)
      Tasks: development, automation, CTF
      Status: "All systems operational"
+
 ```
 
 <p align="center">
