@@ -39,10 +39,6 @@
 
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/DIRECTIVE-AUTOMATE_%E2%86%92_HARDEN_%E2%86%92_EXPLORE-00ff66?style=for-the-badge&labelColor=050505">
-</p>
-
 ---
 
 <p align="center">
