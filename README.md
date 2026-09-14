@@ -24,9 +24,17 @@
   <img src="https://img.shields.io/badge/OPERATOR_PROFILE-ACCESS_GRANTED-00ff66?style=for-the-badge&labelColor=050505">
 </p>
 
+<p align="center">
+  <code>🔴 🟡 🟢 &nbsp; vec1or@ops:~/profile$</code>
+</p>
+
 | `CALLSIGN` | `ROLE` | `ENVIRONMENT` | `STATUS` |
 |:---:|:---:|:---:|:---:|
 | **VEC1OR** | **DevOps / Programmer** | **GNU/Linux** | 🟢 **ONLINE** |
+
+<p align="center">
+  <code>🔴 🟡 🟢 &nbsp; vec1or@ops:~/lab$ ls -la</code>
+</p>
 
 | `SYSTEM OPERATIONS` | `SECURITY LAB` |
 |---|---|
@@ -43,6 +51,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/OPERATOR_ARSENAL-MODULES_LOADED-00ff66?style=for-the-badge&labelColor=050505">
+</p>
+
+<p align="center">
+  <code>🔴 🟡 🟢 &nbsp; vec1or@ops:~/arsenal$ ls modules/</code>
 </p>
 
 | `01 // LANGUAGES` | `02 // DEVOPS & INFRASTRUCTURE` | `03 // CTF TOOLKIT` |
@@ -66,6 +78,13 @@ vec1or@ops:~$ systemctl status operator.service
      Active: active (running)
      Tasks: development, automation, CTF
      Status: "All systems operational"
+```
+
+```diff
++ [  0.0001 ] vec1or-kernel: booting operator environment...
++ [  0.0042 ] modules loaded: python go bash docker
++ [  0.0099 ] security_lab: initialized
++ [  0.0123 ] status: ALL SYSTEMS OPERATIONAL
 ```
 
 <p align="center">
