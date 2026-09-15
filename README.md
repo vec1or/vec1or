@@ -24,21 +24,6 @@
   <img src="https://img.shields.io/badge/ACCESS_GRANTED-00ff66?style=for-the-badge&labelColor=050505">
 </p>
 
-<p align="center">
-  <code>🔴 🟡 🟢 &nbsp; vec1or@ops:~/lab$ ls -la</code>
-</p>
-
-<div align="center">
-  
-| `SYSTEM OPERATIONS` | `SECURITY LAB` |
-|---|---|
-| `01` Building and hardening Linux infrastructure | `01` Solving Capture The Flag challenges |
-| `02` Automating routine operations | `02` Exploring cybersecurity concepts |
-| `03` Deploying and configuring services | `03` Developing analytical thinking |
-| `04` Creating practical software and scripts | `04` Experimenting in controlled environments |
-
-</div>
-
 ---
 
 <p align="center">
