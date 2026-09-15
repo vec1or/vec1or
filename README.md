@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./vec1or-banner.png"
+  <img src="./vec1or-banner-v2.png"
        alt="VEC1OR — DevOps, Programmer and CTF Enthusiast"
        width="100%">
 </p>
