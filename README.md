@@ -21,12 +21,6 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ACCESS_GRANTED-00ff66?style=for-the-badge&labelColor=050505">
-</p>
-
----
-
-<p align="center">
   <img src="https://img.shields.io/badge/OPERATOR_ARSENAL-MODULES_LOADED-00ff66?style=for-the-badge&labelColor=050505">
 </p>
 
