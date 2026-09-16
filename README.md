@@ -59,19 +59,6 @@
 
 </div>
 
----
-
-```yaml
-vec1or@ops:~$ systemctl status operator.service
-
-🟢 operator.service - VEC1OR Operations Environment
-     Loaded: loaded (/etc/systemd/system/operator.service; enabled)
-     Active: active (running) since Mon 2026-09-14 22:00:00 +05
-   Main PID: 1337 (operator)
-      Tasks: 3 (development, automation, CTF)
-     Status: "All systems operational. Ready for deployment."
-```
-
 <p align="center">
   <img src="https://img.shields.io/badge/END_OF_TRANSMISSION-00FF66?style=flat-square&labelColor=050505">
 </p>
