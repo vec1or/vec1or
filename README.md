@@ -1,10 +1,4 @@
 <p align="center">
-  <img src="./vec1or-banner-v2.png"
-       alt="VEC1OR — DevOps, Programmer and CTF Enthusiast"
-       width="100%">
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ff66?style=for-the-badge&labelColor=050505">
   <img src="https://img.shields.io/badge/ACCESS-GRANTED-00ff66?style=for-the-badge&labelColor=050505">
   <img src="https://img.shields.io/badge/OPERATOR-VEC1OR-00ff66?style=for-the-badge&labelColor=050505">
