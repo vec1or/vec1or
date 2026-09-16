@@ -20,10 +20,6 @@
 
 <div align="center">
 
-<p>
-  <code>🔴 🟡 🟢 &nbsp; vec1or@ops:~/arsenal$ ls modules/</code>
-</p>
-
 <h3>LANGUAGES</h3>
 
 <p>
